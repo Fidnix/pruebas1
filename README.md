@@ -1,3 +1,4 @@
 # Hola mundo
 
-Cree un README
+Hola, q tal
+Cree un README. Para mi
